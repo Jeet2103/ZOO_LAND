@@ -472,7 +472,7 @@
   /* contact */
   
   .contact{
-    background: var(--bg);
+    background-color: rgb(194, 241, 209);
   }
   
   .contact form{
@@ -512,7 +512,7 @@
   /* footer */
   
   .footer{
-    background: url(../images/footer.jpg) no-repeat;
+    background: url(https://cdn.naturettl.com/wp-content/uploads/2019/12/19195914/Exposure-Tips-for-Low-Light-Wildlife-Photography-900x485.jpg)no-repeat;
     background-size: cover;
     padding: 3rem 7%;
   }
